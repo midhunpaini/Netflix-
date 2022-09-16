@@ -1,0 +1,84 @@
+.section6{
+    display: grid;
+    width: 100%;
+    height: 1100px;
+    background-color: black;
+    align-items: center;
+    grid-auto-flow: row;
+}
+.s6-h h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    font-weight: 700;
+    color: white;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.s6-h{
+    margin-bottom: -30px;
+}
+.FAQ{
+    display: grid;
+    justify-items: center;
+    grid-row-gap: 7px;
+    margin-top: 0;
+    margin-bottom: -50px;
+}
+.FAQ-button button{
+    display: inline-flex;
+    width: 900px;
+    height: 80px;
+    background-color: #303030;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    color: white;
+    padding-top: 20px;
+    padding-left: 40px;
+    cursor: pointer;
+}
+.FAQ-button img{
+    display: flex;
+    position: absolute;
+    margin-left: 800px;
+    height: 35px;
+    padding-top: 2px;
+}
+.s6-h2 h2{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-left: 360px;
+    margin-top: 0;
+    font-weight: 300;
+}
+.s6-email{
+    width: 520px;
+    height: 65px;
+    border: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    border-radius: 2px;
+    padding-left: 10px;
+}
+.s6-input{
+    display: flex;
+    justify-content: center;
+    margin-top: -110px;
+}
+.s6-input-button{
+    width: 200px;
+    height: 67px;
+    background-color: #e50914;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 452;
+    border: 1px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.s6-input-button:hover{
+    background-color: #ee222d;
+}

@@ -1,0 +1,18 @@
+body{
+   margin-top: 0;
+   margin-left: 0;
+   margin-right: 0;
+}
+.hr1{
+    background-color: rgb(39, 37, 37);
+    color: lightgray;
+    height: 7px;
+    margin-top: -20px;
+    border-color: rgb(66, 63, 63);
+}
+.hr2{
+    background-color: black;
+    height: 7px;
+    margin-top: -20px;
+    border: black;
+}
