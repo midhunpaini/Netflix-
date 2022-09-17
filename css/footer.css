@@ -47,9 +47,10 @@
     border-color: rgb(99, 96, 96);
     margin-top: -20px;
 }
-.netflix-india{
+.netflix-india address{
     color: #737373;
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 50px;
+    font-style: normal;
 }
